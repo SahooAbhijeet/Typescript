@@ -18,7 +18,7 @@
 var id : number = 5;
 console.log(id);
 
-let firstName = "Abhijeet" // here if we don't write string TS is smart enough to understand that firstname will be a string as anything written in double quotes represent a string 
+let firstName = "Abhijeet" // here if we don't write string, TS is smart enough to understand that firstname will be a string as anything written in double quotes represent a string 
 // firstname = 19; // TSC(TypeScript-Compiler) will throw an error
 var lastname : string = "Sahoo"
 // lastname = 20; // TSC will throw an error in case of var datatype also
